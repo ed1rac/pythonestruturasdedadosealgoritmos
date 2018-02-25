@@ -2,6 +2,11 @@
 
 Este é o conjunto de notas que construí durante minha revisão dos fundamentos de python, algoritmos e estruturas de dados.
 
+Os livros textos principais são:
+
+* _Algoritmos: Teoria e prática, do Cormen e outros.
+* _Data Structures and Algorithms in Python_ do Goodrich, Tamassia, e outros.
+
 O objetivo é transformar num livro introdutório para futuros programadores python.
 
 
